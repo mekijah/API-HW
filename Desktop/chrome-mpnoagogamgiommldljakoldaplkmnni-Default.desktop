@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Activity · The-Coding-Bootcamp / UNCC-CHACC-FIN-PT-08-2020-U-C · GitLab
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=mpnoagogamgiommldljakoldaplkmnni
+Icon=chrome-mpnoagogamgiommldljakoldaplkmnni-Default
+StartupWMClass=crx_mpnoagogamgiommldljakoldaplkmnni
